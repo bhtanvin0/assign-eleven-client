@@ -1,0 +1,62 @@
+[
+    {
+        "service_id": "01",
+        "title": "CLASSIC photography",
+        "price": "$120",
+        "description": "Bangladesh Wedding Couture Week 2022 (BWCW): Day three wraps up with a glamorous show",
+        "details": "Whether you are an amateur or a veteran, shooting a wedding is both fun and frustrating at the same time. With every wedding event, there are new challenges that thrill most photographers. Over time, a photographer learns the tips and tricks of capturing the details of this special day.",
+        "img": "https://i.ibb.co/Y3Hv3cg/90f1a929251fd135933d0b3906fd5922.jpg",
+        "cover": "https://i.ibb.co/QDgvSpS/c7c3feac3b0d8e293e62f54483c0fe13.jpg",
+        "ratings": "4.5"
+    },
+    {
+        "service_id": "02",
+        "title": "PREMIER photography",
+        "price": "$120",
+        "details": "My story: My style is fashion photography that features precise light, graphic compositions, and portrays subjects with strength and elegance. No matter who (or what) is in front of my lens, these elements shine through.",
+        "description": "Groundbreaking’ Fashion Photographer Roxanne Lowit Has Died",
+        "img": "https://i.ibb.co/3sBNs4C/0be1bfa4de4aa2e6ceb573788290d464.jpg",
+        "cover": "https://i.ibb.co/m89g6gj/neha-arjun-img6.jpg",
+        "ratings": "4.7"
+    },
+    {
+        "service_id": "03",
+        "title": "ELITE photography",
+        "price": "$120",
+        "description": "Groundbreaking Fashion Photographer Melvin Sokolsky Has Died",
+        "details": "The couple hired a photographer to capture as many candid moments and loved ones' faces as possible throughout the ceremony and reception. If you are also trying to take all those snapshots on your phone or personal camera, you will likely be in the way of their paid expert. Unless the newlyweds have specifically tasked you with capturing some iPhone images or videos, leave the photography in the capable hands of the professionals",
+        "img": "https://i.ibb.co/51z9B12/a0918ccc3873dafb568e64ca7793d3cc.jpg",
+        "cover": "https://i.ibb.co/5Gd92pf/couple-love-sitting-park-bench-188913-1342.webp",
+        "ratings": "4.2"
+    },
+    {
+        "service_id": "04",
+        "title": "fashion photography",
+        "price": "$120",
+        "description": "Getting in the Way of the Photographer",
+        "details": "An expert wedding photographer knows the importance of details and what it means for the couple. Make sure to capture all details from invitation cards to dresses, flower arrangements, closeups of rings, and shoes.",
+        "img": "https://i.ibb.co/JkKysFw/1000-F-84101958-52n5bppt1n-Ibj01-E5157-Kg-QFl-T9-Ykk6f.jpg",
+        "cover": "https://i.ibb.co/v324Xq6/360-F-60608309-B1-DYuuxe15-FEW5-GGG6-Pr-YPVWe3x-Ozn-N1.jpg",
+        "ratings": "4.5"
+    },
+    {
+        "service_id": "05",
+        "title": "fashion photography",
+        "price": "$125",
+        "description": "Groundbreaking Fashion Photographer Melvin Sokolsky Has Died",
+        "details": "In fashion photography, style is even more important than in most other photographic specialities. Many brands want photographers with vision or with a unique view of the world. Furthermore, when hiring for commercial campaigns, a client looks for a photographer with a style that matches the vision of the campaign.",
+        "img": "https://i.ibb.co/1nZrSVX/couple-love-1303-5083.webp",
+        "cover": "https://i.ibb.co/w4zKyrC/360-F-72534750-FYDZMXRHJEMXf03gosr-S2xmv-Qp-Xuz-WA5.jpg",
+        "ratings": "5.3"
+    },
+    {
+        "service_id": "06",
+        "title": "Wedding photography",
+        "price": "$120",
+        "description": "Make sure to have an extra camera and an assistant to capture this happy day. The second photographer will help photograph moments that you may miss, like candid shots and capturing guests’ reactions. You can also direct them to photograph alternative angles of your shots.",
+        "details": "Not only is it impolite to monopolize the couple of the hour—who has many guests to greet—but bombarding their parents with compliments and too-long conversation is equally frowned upon. There are a lot of friends and family these VIPs need to visit with, and you don't want to be the reason a long unseen cousin didn't get a chance to say hello.",
+        "img": "https://i.ibb.co/qkT88GY/4db60a2f0ff402753b8929e845f7c60e.jpg",
+        "cover": "https://i.ibb.co/m89g6gj/neha-arjun-img6.jpg",
+        "ratings": "5.5"
+    }
+]
